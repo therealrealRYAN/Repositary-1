@@ -50,12 +50,15 @@ to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
 //
 
-On branch master
+README.md
+	answers.md
+	er.name=Reagan Ryan
+	git-lab/
 
-No commits yet
+//
+answers.md
+	er.name=Reagan Ryan
+	git-lab/
+//
 
-nothing to commit (create/copy files and use "git add" to track)
-
-fatal: not a git repository (or any parent up to mount point /home)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
 
