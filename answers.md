@@ -52,13 +52,42 @@ See 'git help git' for an overview of the system.
 
 README.md
 	answers.md
-	er.name=Reagan Ryan
-	git-lab/
+	
 
 //
 answers.md
-	er.name=Reagan Ryan
-	git-lab/
+	
+//
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   README.md
+	new file:   answers.md
+
+ //
+On branch master
+nothing to commit, working tree clean
+//
+
+Author: Reagan Ryan <rr697224@ohio.edu>
+Date:   Wed Sep 3 17:57:43 2025 -0400
+
+    Initial commit
 //
 
 
+
+
+
+
+
+
+
+
+
+
+note:er.name=Reagan Ryan
+	git-lab/
