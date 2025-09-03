@@ -50,4 +50,11 @@ to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
 //
 
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+
 
