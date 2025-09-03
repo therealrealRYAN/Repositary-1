@@ -56,5 +56,6 @@ No commits yet
 
 nothing to commit (create/copy files and use "git add" to track)
 
-
+fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
 
